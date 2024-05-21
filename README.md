@@ -169,7 +169,7 @@ for ClassInd,conf,boxes in zip(ClassIndex.flatten(),confidence.flatten(),bbox):
 plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ```
 ## OUTPUT:
-![image](https://github.com/23004426/DIP_Project/assets/144979327/e7913969-5957-47b2-ad2d-706d9038b694)
+![image](https://github.com/23004426/DIP_Project/assets/144979327/3eaec1f1-8e99-4ddb-9e67-6dd24928dfb4)
 
 ## Result :
 Thus the extraction ROI from an image, performing handwritting detection in an image and performing object detection with label in an image. are executed Successfully.
